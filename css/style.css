@@ -285,7 +285,7 @@ footer .linha2 a:hover{
 
     .checkbox-itens label{
         font-size: 12px;
-        padding-left: 5px;
+        margin-left: 10px;
     }
 
     input[type="checkbox"]{
